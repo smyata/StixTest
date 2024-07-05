@@ -1,3 +1,25 @@
 {
-  "content": "Содержимое страницы блока 1, загруженное с сервера"
+  "items": [
+    {
+      "text": "Вайнштефан Ориджинал",
+      "image": "https://drive.google.com/uc?id=1kvZ_PJqSKMET4GkEE3z5HgjE44YXV0_s"
+    },
+    {
+      "text": "Роденбах Александр",
+      "image": "https://drive.google.com/uc?id=12pq5yv_-heJ_9bkYhybkprK939MRizw5"
+    },
+    {
+      "text": "Паулайнер Вайсбир",
+      "image": "https://drive.google.com/uc?id=1u6hexRJ-uN3WT_OLfs9gS_9MYisPB9td"
+    },
+    {
+      "text": "Мон де Ка", 
+      "image": "https://drive.google.com/uc?id=1yzjXJ3SVQ5VJ6LuAllpe9Jpznwh1U2jx"
+    },
+    {
+      "text": "Ипа Оверфолл",
+      "image": "https://drive.google.com/uc?id=1hq9jntiQBvQ--BN4Qd6bFuhPZXxa8uxd"
+    }
+    // Добавьте больше элементов по мере необходимости
+  ]
 }
