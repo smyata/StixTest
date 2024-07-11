@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Омлет",
+    "image": "path/to/omelette.jpg",
+    "description": "Сочный омлет с овощами.",
+    "price": "250 р."
+  },
+  {
+    "title": "Тосты с авокадо",
+    "image": "path/to/avocado_toasts.jpg",
+    "description": "Хрустящие тосты с мягким авокадо.",
+    "price": "180 р."
+  },
+ 
+]
