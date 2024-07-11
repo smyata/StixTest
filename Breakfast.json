@@ -1,15 +1,15 @@
 [
   {
     "title": "Вафли с беконом",
-    "image": "https://drive.google.com/file/d/1Pf81Mo_swEzFrQg6yfisNdIsZVECzLEF",
+    "image": "https://drive.google.com/uc?id=1Pf81Mo_swEzFrQg6yfisNdIsZVECzLEF",
     "description": "Нежные вафли с хрустящим беконом, томатами и яйцом пашот",
     "price": "250 р."
   },
   {
     "title": "Вафли с копченой курицей",
-    "image": "https://drive.google.com/file/d/1V72A1-NSvjWjzlMWlxoDFKK5NUyYz6gv",
-    "description": "Нежные вафли с копченой курочкой, свежими овощами и яйцом пашот",
-    "price": "180 р."
+    "image": "https://drive.google.com/uc?id=1V72A1-NSvjWjzlMWlxoDFKK5NUyYz6gv",
+    "description": "Нежные вафли с копченой курочкой, свежими овощами и жареным яйцом",
+    "price": "200 р."
   },
  
 ]
