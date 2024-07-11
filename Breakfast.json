@@ -1,12 +1,12 @@
 {
   "items": [
-  {
-    "title": "Вафли с беконом",
-    "image": "https://drive.google.com/uc?id=1Pf81Mo_swEzFrQg6yfisNdIsZVECzLEF",
-      },
-  {
-    "title": "Вафли с копченой курицей",
-    "image": "https://drive.google.com/uc?id=1V72A1-NSvjWjzlMWlxoDFKK5NUyYz6gv",
-      },
- ]
+    {
+      "text": "Вафли с беконом",
+      "https://drive.google.com/uc?id=1Pf81Mo_swEzFrQg6yfisNdIsZVECzLEF"
+    },
+    {
+      "text": "Вафли с копченой курицей",
+      "image": "https://drive.google.com/uc?id=1V72A1-NSvjWjzlMWlxoDFKK5NUyYz6gv"
+    },
+    ]
 }
