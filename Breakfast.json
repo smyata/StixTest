@@ -4,25 +4,45 @@
       "text": "Вафли с беконом и овощами\n",
       "description": "Нежные вафли с хрустящим беконом и яйцом пашот",
       "image": "https://drive.google.com/uc?id=1Pf81Mo_swEzFrQg6yfisNdIsZVECzLEF",
-      "price": "250 руб."
+      "price": "250 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Тесто вафельное, бекон жареный, огурцы, томаты, микс зелени, яйцо куриное"
     },
     {
       "text": "Вафли с копченой\nкурицей\n",
       "description": "Вафли с копченой курочкой и жареным яйцом",
       "image": "https://drive.google.com/uc?id=1V72A1-NSvjWjzlMWlxoDFKK5NUyYz6gv",
-      "price": "240 руб."
+      "price": "240 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Тесто вафельное, копченое куриное филе, яйцо куриное, микс зелени, томаты, огурцы"
     },
     {
       "text": "Рисовая каша со\nсвежими ягодами\n",
       "description": "Сливочная сытная каша с сезонными ягодами",
       "image": "https://drive.google.com/uc?id=1sgMaA0T-15LVr1OZY4GbjsvfMB8bwRwL",
-      "price": "200 руб."
+      "price": "200 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Рис, молоко, клубника, голубика, цедра апельсина, хурма"
     },
     {
       "text": "Сырники со сгущенкой\n",
       "description": "Классика завтраков в фирменном исполнении",
       "image": "https://drive.google.com/uc?id=1A2D5kpR7HFQhg3UKiDRkfq8ynhXydAZl",
-      "price": "300 руб."
+      "price": "300 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Фермерский домашний творог, клубника, черника, сгущенка"
     }
   ]
 }
