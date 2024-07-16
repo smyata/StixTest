@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "text": "Сливочно-грибной суп",
+      "description": "Согревающий суп с миксом грибов и куриными кнелями",
+      "image": "https://drive.google.com/uc?id=1PFamTcnP00ofZIWpo-lQz5Zk0m0h2SXn",
+      "price": "270 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Шампиньоны, вешенки, белые грибы, куриный фарш, сливки, масло сливочное, гренка"
+    },
+    {
+      "text": "Окрошка на квасе/тане",
+      "description": "Освежающий суп, подается с горчицей и хреном",
+      "image": "https://drive.google.com/uc?id=1-M3ZuMf2RIyT65cWYVR4EsvdkWzt5FFy",
+      "price": "240 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Ростбиф, яйцо куриное, огурец соленый, квас/тан, зелень, морковь"
+    }
+      ]
+}
