@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "text": "Вафли с малиновым соусом и маршмеллоу",
+      "description": "Сладкие вафли с легкой ягодной кислинкой",
+      "image": "https://drive.google.com/uc?id=1qw_uRQT1XlCmTdWOZDdvlqDZIlxEuZA6",
+      "price": "370 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Тесто вафельное, соус малиновый, маршмеллоу"
+    },
+    {
+      "text": "Вафли с манго и фисташковым мороженым",
+      "description": "Сладкие вафли с тропической сладостью",
+      "image": "https://drive.google.com/uc?id=1esZVT5QPhvOW4KVWuSlRHsk-IbH4r0uy",
+      "price": "410 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Тесто вафельное, соус манго, миндаль, мороженое фисташковое"
+    },
+    {
+      "text": "Вафли с пастой нутелла",
+      "description": "Сладкие вафли с шоколадной пастой и M&Ms",
+      "image": "https://drive.google.com/uc?id=1SeUfmVENGhnqww_WRkRHcMog1ojYQQph",
+      "price": "410 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Тесто вафельное, нутелла, конфеты M&Ms, шоколадный топинг"
+    },
+    {
+      "text": "Вафли с ягодами и взбитыми сливками",
+      "description": "Сладкие вафли со сливочно-ягодным вкусом",
+      "image": "https://drive.google.com/uc?id=1Yxxz0fL16wUXOqfy8sImv4WspoEGlALi",
+      "price": "560 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Тесто вафельное, взбитые сливки, клубника, голубика"
+    },
+     {
+      "text": "Крем-брюле с клубничным соусом",
+      "description": "Нежное суфле с ягодным соусом и сахарной корочкой",
+      "image": "https://drive.google.com/uc?id=1tKdrJC1ZJLmotNSE7A-L2Z7QcV-XNMJy",
+      "price": "470 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Яйцо куриное, сливки, сыр маскарпоне, клубника, соус клубничный"
+    },
+     {
+      "text": "Чизкейк клубничный",
+      "description": "Сладкий чизкейк с орехами и соусом манго",
+      "image": "https://drive.google.com/uc?id=1cyj8aI0nY-5nGLakHulJVEQClDGikPIA",
+      "price": "470 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Яйцо куриное, сливки, сыр маскарпоне, клубника, соус манго, миндаль, фундук"
+    }
+  ]
+}
