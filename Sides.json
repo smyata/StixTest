@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "text": "Овощи гриль",
+      "description": "Микс овощей с пряностями на гриле",
+      "image": "https://drive.google.com/uc?id=1eCkyuYPNaEyhehwf6xhb_XEm9m4O0ywG",
+      "price": "250 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Томат, лук, болгарский перец, цукини"
+    },
+    {
+      "text": "Картофель фри",
+      "description": "Популярнейший гарнир, подается с тремя соусами",
+      "image": "https://drive.google.com/uc?id=16uxXQsaKL780zhgXwhu2w-hrkRst1_fa",
+      "price": "240 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Картофель фри, соуса чесночный, цезарь и барбекю"
+    }
+  ]
+}
