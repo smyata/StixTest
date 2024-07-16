@@ -32,6 +32,17 @@
       "fat": "5 г",
       "carbs": "60 г",
       "ingredients": "Фермерский домашний творог, клубника, черника, сгущенка"
+    },
+     {
+      "text": "Каша рисовая с ягодами",
+      "description": "Яркий и сытный завтрак",
+      "image": "https://drive.google.com/uc?id=1sgMaA0T-15LVr1OZY4GbjsvfMB8bwRwL",
+      "price": "300 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Рис, молоко, сливочное масло, сезонные свежие ягоды, хурма"
     }
   ]
 }
