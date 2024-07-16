@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "text": "Креветки на гриле",
+      "description": "Сочные креветки в панцире с кунжутным соусом",
+      "image": "https://drive.google.com/uc?id=1m3ZLa1M4FrrA9weprEl2cdOPMz9Kt2KC",
+      "price": "710 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Креветки в панцире, томаты, лимон, кунжутный соус"
+    },
+    {
+      "text": "Мидии Мариньера",
+      "description": "Панцирные мидии в соусе из белого вина и сливок",
+      "image": "https://drive.google.com/uc?id=1rE8uOaVdyAeD9jqXIDasGsev8p6ZQJxd",
+      "price": "600 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Мидии в панцире, сливки, вино белое столовое, лук, морковь, картофель фри"
+    },
+    {
+      "text": "Семга терияки",
+      "description": "Семга с томлеными овощами и сладким терияки",
+      "image": "https://drive.google.com/uc?id=1ZO1jxJowUbEuPsTiVLAtpGs5v48Sv8iz",
+      "price": "560 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Филе семги, томаты, перец болгарский, кабачок, лук, соус терияки"
+    },
+     {
+      "text": "Сибас на гриле",
+      "description": "Цельный сибас с дымком, подается с овощами",
+      "image": "https://drive.google.com/uc?id=1uIzeNyX652Cl6ybAE-BOgBnHYvtVbFXC",
+      "price": "670 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Сибас, томаты, лук, морковь, тыква"
+    }
+  ]
+}
