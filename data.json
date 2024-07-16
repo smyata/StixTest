@@ -2,23 +2,28 @@
   "items": [
     {
       "text": "Вайнштефан Ориджинал",
-      "image": "https://drive.google.com/uc?id=1kvZ_PJqSKMET4GkEE3z5HgjE44YXV0_s"
+      "image": "https://drive.google.com/uc?id=1kvZ_PJqSKMET4GkEE3z5HgjE44YXV0_s",
+      "price": "400₽"
     },
     {
       "text": "Роденбах Александр",
-      "image": "https://drive.google.com/uc?id=12pq5yv_-heJ_9bkYhybkprK939MRizw5"
+      "image": "https://drive.google.com/uc?id=12pq5yv_-heJ_9bkYhybkprK939MRizw5",
+      "price": "500₽"
     },
     {
       "text": "Паулайнер Вайсбир",
-      "image": "https://drive.google.com/uc?id=1u6hexRJ-uN3WT_OLfs9gS_9MYisPB9td"
+      "image": "https://drive.google.com/uc?id=1u6hexRJ-uN3WT_OLfs9gS_9MYisPB9td",
+      "price": "550₽"
     },
     {
       "text": "Мон де Ка", 
-      "image": "https://drive.google.com/uc?id=1yzjXJ3SVQ5VJ6LuAllpe9Jpznwh1U2jx"
+      "image": "https://drive.google.com/uc?id=1yzjXJ3SVQ5VJ6LuAllpe9Jpznwh1U2jx",
+      "price": "700₽"
     },
     {
       "text": "Ипа Оверфолл",
-      "image": "https://drive.google.com/uc?id=1hq9jntiQBvQ--BN4Qd6bFuhPZXxa8uxd"
+      "image": "https://drive.google.com/uc?id=1hq9jntiQBvQ--BN4Qd6bFuhPZXxa8uxd",
+      "price": "400₽"
     }
     ]
 }
