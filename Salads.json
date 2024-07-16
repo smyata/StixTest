@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "text": "Нисуаз с тунцом",
+      "description": "Салат со слегка обжаренным тунцом, овощами и медово-горчичной заправкой",
+      "image": "https://drive.google.com/1aPgCPR1tjqkJAJkYHotQe3UIuytqZdbL",
+      "price": "550 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Тунец, томаты, огурец, лук красный, медово-горчичная заправка, зелень"
+    },
+    {
+      "text": "Салат с ростбифом",
+      "description": "Нежный ростбиф в сочетании с овощами и медово-горчичной заправкой",
+      "image": "https://drive.google.com/uc?id=16DjVsWy3K5MCmOKAPKrz-4x9Mvbjj20y",
+      "price": "440 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Ротбиф, томаты черри, кукуруза гриль, красный лук, шампиньоны гриль, медово-горчичная заправка, лист салата"
+    },
+    {
+      "text": "Салат с семгой",
+      "description": "Малосольная семга в обрамлении нежнейшего сыра",
+      "image": "https://drive.google.com/uc?id=1AuObtqBmQLbS4D-4RUvxR75eJLnE9jCe",
+      "price": "500 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Семга малосольная, творожный сыр в панировке из семечек, микс зелени, томаты, перец болгарский, масляно-пряная заправка"
+    },
+    {
+      "text": "Салат со свеклой и пряной тыквой",
+      "description": "Овощной питательный салат с сыром фета",
+      "image": "https://drive.google.com/uc?id=1fD3AgGQJJsYSrf23AZGMkoDSlT7BhLqR",
+      "price": "300 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Отварная свекла, пряная отварная тыква, сыр фета, кедровый орех, томаты, зелень, масляная заправка"
+    },
+    {
+      "text": "Цезарь с креветками",
+      "description": "Классика жанра в уникальном исполнении",
+      "image": "https://drive.google.com/uc?id=1vVJFa3upBZZdUnohvdQnn4s6h_fUmhUN",
+      "price": "600 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Креветка гриль, томаты, сухарики, сыр пармезан, яйцо перепелиное, соус цезарь, микс салата"
+    }
+  ]
+}
