@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "text": "Антрекот из свинины",
+      "description": "Свинина на кости с картофелем айдахо и кунжутным соусом",
+      "image": "https://drive.google.com/uc?id=11wD958eMG6VYoQISTx3g0JbgumJYAiuf",
+      "price": "470 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Свинина на кости, картофель айдахо, соус кунжутный, брусника"
+    },
+    {
+      "text": "Блэк бургер",
+      "description": "Бургер с говяжьей котлетой, картофелем и острым соусом",
+      "image": "https://drive.google.com/uc?id=1XFLv02dxG65DxHDBKxNkgCwxZV0e79Tv",
+      "price": "610 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Булочка для бургера блэк, котлета говяжья, томаты, огурец, сыр, лист салата, картофель айдахо, соус острый"
+    },
+    {
+      "text": "Медальоны из индейки",
+      "description": "Нежная вырезка индейки с медово-горчичным соусом и картофельным драником",
+      "image": "https://drive.google.com/uc?id=1yirLNGHGQDSQfp1I0nsx578xpcFDogRZ",
+      "price": "560 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Вырезка индейки, картофельный драник, медово-горчичный соус, маринованный красный лук, томаты"
+    },
+     {
+      "text": "Свиные ребрышки",
+      "description": "Нежнейшие ребрышки на гриле с картофелем и кунжутным соусом",
+      "image": "https://drive.google.com/uc?id=116xF8nG1hSQo5aOB0RUgfMvN1y2RAn8b",
+      "price": "570 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Свиные ребра, маринад со специями, картофель айдахо, соус кунжутный"
+    }
+  ]
+}
