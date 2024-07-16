@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "text": "Нисуаз с тунцом",
-      "description": "Салат со слегка обжаренным тунцом, овощами и медово-горчичной заправкой",
-      "image": "https://drive.google.com/1aPgCPR1tjqkJAJkYHotQe3UIuytqZdbL",
+      "text": "Салат Нисуаз с тунцом",
+      "description": "Салат со слегка обжаренным тунцом, овощами и пряной заправкой",
+      "image": "https://drive.google.com/uc?id=1aPgCPR1tjqkJAJkYHotQe3UIuytqZdbL",
       "price": "550 руб.",
       "calories": "350 ккал",
       "protein": "10 г",
@@ -23,7 +23,7 @@
       "ingredients": "Ротбиф, томаты черри, кукуруза гриль, красный лук, шампиньоны гриль, медово-горчичная заправка, лист салата"
     },
     {
-      "text": "Салат с семгой",
+      "text": "Салат с семгой и сырными кнелями",
       "description": "Малосольная семга в обрамлении нежнейшего сыра",
       "image": "https://drive.google.com/uc?id=1AuObtqBmQLbS4D-4RUvxR75eJLnE9jCe",
       "price": "500 руб.",
@@ -35,7 +35,7 @@
     },
     {
       "text": "Салат со свеклой и пряной тыквой",
-      "description": "Овощной питательный салат с сыром фета",
+      "description": "Овощной, питательный салат с отварными овощами и сыром фета",
       "image": "https://drive.google.com/uc?id=1fD3AgGQJJsYSrf23AZGMkoDSlT7BhLqR",
       "price": "300 руб.",
       "calories": "350 ккал",
