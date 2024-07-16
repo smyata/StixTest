@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "text": "Картофельный крем-суп",
+      "description": "Сытный, воздушный суп с хрустящим луком",
+      "image": "https://drive.google.com/uc?id=1ZcHfNbbWPBULl2tIMKvXkFZ1CbkALtp3F",
+      "price": "100 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Картофель, сливки, лук, морковь, зелень"
+    },
+    {
+      "text": "Куриные котлеты с пюре",
+      "description": "Классика обедов",
+      "image": "https://drive.google.com/uc?id=1-qhlEw6LQHRh1P5LUv2zH16dQWdFVfXo",
+      "price": "110 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Куриный фарш, панировка, картофель, масло сливочное, томаты"
+    },
+    {
+      "text": "Куриный суп с лапшой",
+      "description": "Легкий суп с домашней лапшой",
+      "image": "https://drive.google.com/uc?id=1qHEFQ1YQAewp2wRcdsvqWP36JhoxNvU6l",
+      "price": "100 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Куриное филе, лапша домашняя, лук, морковь, куриный бульон, зелень"
+    },
+    {
+      "text": "Щучьи котлеты",
+      "description": "Нежные котлетки из щуки с соусом тартар",
+      "image": "https://drive.google.com/uc?id=1djrIQS83bkU0r4d-PBBeYfZ_wq1D6-JE",
+      "price": "100 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Филе щуки, сало свиное, соус тартар, микс зелени"
+    }
+  ]
+}
