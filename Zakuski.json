@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "text": "Картофельные вафли с паштетом",
+      "description": "Картофельные вафли со сливочным паштетом из лосося",
+      "image": "https://drive.google.com/uc?id=1rVkw8gpi4MI9GREKnPG3CpDSmdb_-iRx",
+      "price": "350 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Картофель, сливки, лосось, икра, зелень"
+    },
+    {
+      "text": "Бельгийские вафли с тар-таром из форели",
+      "description": "Хрустящие вафли с тарт-таром из свежей форели",
+      "image": "https://drive.google.com/uc?id=1_zSANgN28m9Hs2X__y8m1QgpYCJdThcC",
+      "price": "400 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Лосось свежий, тесто вафельное, авокадо, лук свежий"
+    },
+    {
+      "text": "Пивной морской сет",
+      "description": "Пивной сет даров моря в панировке",
+      "image": "https://drive.google.com/uc?id=1rAVF6DG9jPYacCjhmow9jD1hFStnjAWw", 
+      "price": "600 руб.",
+      "calories": "350 ккал",
+      "protein": "10 г",
+      "fat": "5 г",
+      "carbs": "60 г",
+      "ingredients": "Сухари панировочные, креветки, треска, кальмары, картофель фри, соуса тартар и сырный"
+    }
+  ]
+}
